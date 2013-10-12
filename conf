@@ -1,0 +1,10 @@
+[meta]
+	type = lang
+
+[lang]
+	name = Ruby
+	cmd = ruby
+	lid = rb
+
+[pkg]
+        cmd = gem
